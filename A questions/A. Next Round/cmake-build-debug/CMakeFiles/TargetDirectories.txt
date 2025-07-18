@@ -1,0 +1,3 @@
+D:/coding Q/A. Next Round/cmake-build-debug/CMakeFiles/A__Next_Round.dir
+D:/coding Q/A. Next Round/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/coding Q/A. Next Round/cmake-build-debug/CMakeFiles/rebuild_cache.dir

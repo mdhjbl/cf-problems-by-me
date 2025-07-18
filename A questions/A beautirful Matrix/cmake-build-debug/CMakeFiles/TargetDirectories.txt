@@ -1,0 +1,3 @@
+D:/coding Q/A beautirful Matrix/cmake-build-debug/CMakeFiles/A_beautirful_Matrix.dir
+D:/coding Q/A beautirful Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/coding Q/A beautirful Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

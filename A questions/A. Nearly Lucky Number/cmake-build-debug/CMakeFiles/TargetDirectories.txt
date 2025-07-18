@@ -1,0 +1,3 @@
+D:/coding Q/A. Nearly Lucky Number/cmake-build-debug/CMakeFiles/A__Nearly_Lucky_Number.dir
+D:/coding Q/A. Nearly Lucky Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/coding Q/A. Nearly Lucky Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

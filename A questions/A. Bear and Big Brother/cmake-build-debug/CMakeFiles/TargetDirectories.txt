@@ -1,0 +1,3 @@
+D:/coding Q/A. Bear and Big Brother/cmake-build-debug/CMakeFiles/A__Bear_and_Big_Brother.dir
+D:/coding Q/A. Bear and Big Brother/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/coding Q/A. Bear and Big Brother/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/coding Q/A. Boy or Girl/cmake-build-debug/CMakeFiles/A__Boy_or_Girl.dir
+D:/coding Q/A. Boy or Girl/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/coding Q/A. Boy or Girl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

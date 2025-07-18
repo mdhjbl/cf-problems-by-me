@@ -1,0 +1,3 @@
+D:/quera q/watermelon/cmake-build-debug/CMakeFiles/quera_q.dir
+D:/quera q/watermelon/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/quera q/watermelon/cmake-build-debug/CMakeFiles/rebuild_cache.dir

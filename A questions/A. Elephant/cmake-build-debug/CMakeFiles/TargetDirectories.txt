@@ -1,0 +1,3 @@
+D:/coding Q/A. Elephant/cmake-build-debug/CMakeFiles/A__Elephant.dir
+D:/coding Q/A. Elephant/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/coding Q/A. Elephant/cmake-build-debug/CMakeFiles/rebuild_cache.dir

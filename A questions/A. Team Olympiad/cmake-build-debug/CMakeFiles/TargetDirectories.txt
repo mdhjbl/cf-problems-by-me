@@ -1,0 +1,3 @@
+D:/coding Q/A. Team Olympiad/cmake-build-debug/CMakeFiles/A__Team_Olympiad.dir
+D:/coding Q/A. Team Olympiad/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/coding Q/A. Team Olympiad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
