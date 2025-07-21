@@ -1,4 +1,4 @@
-// Problem: 4A - Watermelon
+// Problem: 1220A - Cards
 // Link: https://codeforces.com/problemset/problem/1220/A
 // Author: mdhjbl
 // Language: C++
