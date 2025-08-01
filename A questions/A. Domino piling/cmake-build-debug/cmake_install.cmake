@@ -1,4 +1,4 @@
-# Install script for directory: D:/coding Q/A. Domino piling
+# Install script for directory: D:/coding Q/A questions/A. Domino piling
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/coding Q/A. Domino piling/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/coding Q/A questions/A. Domino piling/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

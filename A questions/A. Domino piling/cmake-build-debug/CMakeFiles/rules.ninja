@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Users\Jebeli\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\coding Q\A. Domino piling" -B"D:\coding Q\A. Domino piling\cmake-build-debug"
+  command = "C:\Users\Jebeli\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\coding Q\A questions\A. Domino piling" -B"D:\coding Q\A questions\A. Domino piling\cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 
